@@ -101,7 +101,7 @@ class Principal:
 
     def deslogar(self):
         self.janela.destroy()
-        from login import Login
+        from projeto.telas.login import Login
         self.limpar_registro_logado()
         tela_login = Login()
 
