@@ -1,0 +1,99 @@
+{
+  "819744": {
+    "Nome": "Maria",
+    "Agencia": "3020",
+    "Senha": "125125",
+    "Cpf": "04181775038",
+    "Email": "fenix21897@gmail.com",
+    "Telefone": "123456789",
+    "Saldo": 700,
+    "Operacoes": [
+      [
+        "Deposito",
+        "23/02/2023 22:55",
+        500
+      ],
+      [
+        "Saque",
+        "23/02/2023 22:55",
+        200
+      ],
+      [
+        "Deposito",
+        "23/02/2023 22:59",
+        500
+      ],
+      [
+        "Deposito",
+        "28/02/2023 15:04",
+        150
+      ],
+      [
+        "Saque",
+        "28/02/2023 15:09",
+        500
+      ],
+      [
+        "Deposito",
+        "28/02/2023 15:16",
+        1000
+      ],
+      [
+        "Saque",
+        "28/02/2023 15:18",
+        500
+      ],
+      [
+        "Transferencia",
+        "28/02/2023 15:19",
+        250
+      ]
+    ]
+  },
+  "669902": {
+    "Nome": "Roberto",
+    "Agencia": "2020",
+    "Senha": "123456",
+    "Cpf": "32118791534",
+    "Email": "fenix21899@gmail.com",
+    "Telefone": "11914141414",
+    "Saldo": 200,
+    "Operacoes": [
+      [
+        "Saque",
+        "02/03/2023 15:12",
+        100
+      ],
+      [
+        "Deposito",
+        "02/03/2023 15:14",
+        150
+      ],
+      [
+        "Transferencia",
+        "02/03/2023 15:14",
+        100
+      ]
+    ]
+  },
+  "947123": {
+    "Nome": "Maria Santana",
+    "Agencia": "3020",
+    "Senha": "123456",
+    "Cpf": "73589669888",
+    "Email": "maria@email.com",
+    "Telefone": "11974747474",
+    "Saldo": 100,
+    "Operacoes": []
+  },
+  "898203": {
+    "Nome": "Larissa",
+    "Agencia": "3020",
+    "Senha": "141147",
+    "Cpf": "33571315790",
+    "Email": "maria@gmail.com",
+    "Telefone": "11944556677",
+    "Saldo": 0,
+    "Operacoes": []
+  }
+}
